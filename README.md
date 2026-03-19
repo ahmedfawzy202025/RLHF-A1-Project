@@ -26,7 +26,7 @@ This project implements a RLHF pipeline using:
 
 ## Environment
 - Google Colab (GPU)
-<img width="1536" height="1024" alt="expriement_setup7" src="https://github.com/user-attachments/assets/2c3d75f1-9124-4e4c-b20b-3ccb6d562a9d" />
+<img width="1536" height="1024" alt="expriement_setup" src="https://github.com/user-attachments/assets/a0dfc447-fa94-4d46-aa64-7642c8c52c05" />
 
 ## Results
 The project demonstrates how different reward datasets would impact/change alignment performance.
